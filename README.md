@@ -39,3 +39,9 @@ Here are some basic examples of how to use VICShell:
 Script execution details:
 
 VICShell supports the execution of scripts directly from the command line. Scripts intended for VICShell can include any commands that the shell is capable of parsing and executing. This feature allows you to automate tasks and extend the functionality of the shell by writing scripts that perform complex operations or series of commands.
+
+Contributing 🤝
+We welcome contributions to VICShell! If you have suggestions for improvements or new features, feel free to make a pull request or open an issue.
+
+About the Project 📚
+VICShell was created as an educational project to understand the intricacies of shell programming and process management in Unix-like systems.
