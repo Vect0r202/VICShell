@@ -16,10 +16,13 @@ Usage 📖
 Here are some basic examples of how to use VICShell:
 1. Print working directory: pwd
 2. Change directory: cd path
+
 ![pwd](images/pwd-cd.png)
 3. List directories and files: ls -l -a
+
    
 4. Execute other shell commands that are called externally, theese commands can be nested
+
    
 5. Execute scripts: ./myscript
 
