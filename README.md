@@ -18,14 +18,23 @@ Here are some basic examples of how to use VICShell:
 2. Change directory: cd path
 
 ![pwd](images/pwd-cd.png)
+
 3. List directories and files: ls -l -a
 
+![ls](images/ls.png)
    
 4. Execute other shell commands that are called externally, theese commands can be nested
+
+![shellcomm1](images/echo.png)
+![shellcomm1](images/echo-out.png)
+![shellcomm2](images/p1.png)
+![shellcomm2](images/p1-out.png)
 
    
 5. Execute scripts: ./myscript
 
+![script](images/script.png)
+![script](images/script-out.png)
 
 Script execution details:
 
