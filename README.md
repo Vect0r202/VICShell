@@ -14,10 +14,16 @@ VICShell offers a range of features that cater to various shell operations and s
 Usage 📖
 
 Here are some basic examples of how to use VICShell:
+1. Print working directory: pwd
 
-1. Change directory: cd path
+2. Change directory: cd path
+  
 3. List directories and files: ls -l -a
-4. Execute scripts: ./myscript
+   
+4. Execute other shell commands that are called externally, theese commands can be nested
+   
+5. Execute scripts: ./myscript
+
 
 Script execution details:
 
